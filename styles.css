@@ -1,0 +1,21 @@
+body {
+	font-family: Arial;
+	padding: 0;
+	text-align: center;
+	}
+	h1 {
+		color: red;
+	}
+			nav {
+				text-align: center;
+			}
+				nav a {
+					color: green;
+				}
+					section h2 {
+						color: red;
+					}
+						section p {
+							color: orange;
+						}
+	
